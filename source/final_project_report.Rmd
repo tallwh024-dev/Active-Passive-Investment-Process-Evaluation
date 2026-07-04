@@ -1,0 +1,33 @@
+---
+title: "CFRM 503 Final Project"
+author: "Jackson Wang"
+output: pdf_document
+---
+
+# Summary
+
+This report evaluates the firm's investment process using 10 years of monthly data from January 2016 through December 2025.
+
+The analysis examines seven dimensions for evaluation and nine actively managed asset-class funds relative to their benchmark indexes. The goal is to determine where allocation or implementation added value.
+
+# Distributional Behavior of Passive Returns
+
+The passive benchmark return analysis estimates monthly mean returns, standard deviations, and correlations across the nine benchmark asset classes.
+
+Equity-related asset classes produced the strongest average monthly returns. Fixed income benchmarks were less volatile, with SHV providing the greatest stability.
+
+# Performance of Dimensions for Evaluation
+
+The strongest dimensions were Capitalization, Country, and Duration. Credit and Alternatives were positive but weaker.
+
+# Performance of Active Funds
+
+The strongest active results came from IWB, IXUS, and TLT. Weaker results came from IWM, SHV, IGSB, and IGF.
+
+# Allocation Model Interpretation
+
+The active versus passive allocation model is designed to preserve the expected return of the current portfolio while minimizing total risk. It allocates more active exposure to asset classes where active management has produced stronger excess return relative to tracking error.
+
+# Recommendation
+
+The firm should keep active management in areas where information ratios are strong and consider more passive implementation where active results are weak.
