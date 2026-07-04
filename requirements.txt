@@ -1,0 +1,8 @@
+R packages used:
+
+readxl
+dplyr
+tidyr
+stringr
+PerformanceAnalytics
+knitr
